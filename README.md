@@ -4,9 +4,9 @@
 ### 💻 Administrador de Sistemas, Redes y Soporte Informático (SMR / ASIX)
 **Barcelona, España**
 
-[![Portfolio Web](https://img.shields.io/badge/🌐_Visitar_Portfolio_Online-00f0ff?style=for-the-badge&logoColor=black&labelColor=0b0f19)](https://marcooctavio89.github.io/portfolio-Marco-Octavio-Maciel-Borges/)
+[![Portfolio Web](https://img.shields.io/badge/🌐_Visitar_Portfolio_Online-0891b2?style=for-the-badge&logoColor=white&labelColor=0e7490)](https://marcooctavio89.github.io/portfolio-Marco-Octavio-Maciel-Borges/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-marcooctavio89@gmail.com-00ff66?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0b0f19)](mailto:marcooctavio89@gmail.com)
+[![Email](https://img.shields.io/badge/Email-marcooctavio89@gmail.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0891b2)](mailto:marcooctavio89@gmail.com)
 
 ---
 
@@ -14,10 +14,10 @@
 
 ## 👨‍💻 Sobre Mí
 
-- 🎓 Técnico en **Sistemas Microinformáticos y Redes (SMR)** y especializándome en **Administración de Sistemas en Red (ASIX)** en Barcelona.
-- 🛠️ Experiencia real en soporte técnico N1/N2, resolución de incidencias, clonación/despliegue de puestos y mantenimiento de infraestructura de redes locales (Fundació Pere Tarrés).
-- 🛡️ Apasionado por la **ciberseguridad defensiva**, auditoría y análisis de paquetes (**Wireshark / Nmap**), monitorización y hardening de sistemas **Linux** y **Windows Server**.
-- 🤖 Automatización de tareas de administración de sistemas mediante **Bash Scripting** y **Python**.
+- 🎓 Técnico en **Sistemas Microinformáticos y Redes (SMR)** y cursando **Administración de Sistemas en Red (ASIX)** en Barcelona.
+- 🛠️ Experiencia práctica en soporte técnico N1/N2, resolución de incidencias, despliegue de puestos y mantenimiento de infraestructura de redes locales (Fundació Pere Tarrés).
+- 🛡️ Especialización en **ciberseguridad defensiva**, auditoría y análisis de paquetes (**Wireshark / Nmap**), monitorización y hardening de sistemas **Linux** y **Windows Server**.
+- 🤖 Automatización operativa y tareas de administración mediante **Bash Scripting** y **Python**.
 - 💬 **Idiomas:** Español (Nativo) | Catalán (Nativo) | Portugués (Nativo) | Inglés (B2).
 
 ---
@@ -35,7 +35,7 @@
 
 ### Redes & Ciberseguridad
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap_Auditoría-2563EB?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap_Auditoría-0891b2?style=flat-square&logoColor=white)
 ![TCP/IP & VLANs](https://img.shields.io/badge/TCP/IP_&_VLANs-00A98F?style=flat-square&logoColor=white)
 ![Firewalls](https://img.shields.io/badge/UFW_/_iptables-DC2626?style=flat-square&logoColor=white)
 
@@ -52,8 +52,8 @@
 
 ## 📌 Proyectos Destacados
 
-- 🚀 **[Portfolio Profesional Interactivo](https://github.com/marcooctavio89/portfolio-Marco-Octavio-Maciel-Borges)**  
-  Portfolio web moderno y responsive desarrollado con **Astro** y **Tailwind CSS**, desplegado en GitHub Pages y con terminal interactiva de comandos Linux simulados.
+- 🌐 **[Portfolio Profesional Interactivo](https://github.com/marcooctavio89/portfolio-Marco-Octavio-Maciel-Borges)**  
+  Portfolio web moderno y responsive desarrollado con **Astro** y **Tailwind CSS**, diseño limpio con acentos turquesa, desplegado en GitHub Pages y con consola bash interactiva simulada.
   
 - 🔍 **[Laboratorios de Auditoría de Red y Análisis de Paquetes](https://github.com/marcooctavio89/portfolio-Marco-Octavio-Maciel-Borges)**  
   Captura e inspección profunda de protocolos con Wireshark (DNS, ARP, TCP Handshake, HTTP/S) y detección de intrusiones en entornos de prueba.
@@ -67,8 +67,8 @@
 
 ### 📊 Estadísticas de GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcooctavio89&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=00ff66&text_color=cbd5e1&bg_color=0b0f19" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcooctavio89&layout=compact&theme=tokyonight&hide_border=true&title_color=00f0ff&text_color=cbd5e1&bg_color=0b0f19" alt="Top Languages" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=marcooctavio89&show_icons=true&theme=default&border_radius=12&border_color=cbd5e1&title_color=0891b2&icon_color=06b6d4&text_color=334155&bg_color=f8fafc" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcooctavio89&layout=compact&theme=default&border_radius=12&border_color=cbd5e1&title_color=0891b2&text_color=334155&bg_color=f8fafc" alt="Top Languages" width="45%" />
 
 ---
 
